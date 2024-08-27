@@ -1,2 +1,2 @@
-# denso-pick-and-place-eaj2-phavm-vrs3
-Miniprojeto de pick and place com o Denso
+# denso-pick-and-place
+Atividade da Residência de Robótica e IA para utilização da Biblioteca RRIA-Denso, uso do ADB e utilização do Denso.
